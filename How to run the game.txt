@@ -1,0 +1,20 @@
+*How to run the game 
+
+**In order to run the game, navigate to the following file path and simply run the “dagBomberman.jar” file: "\dagBomberman\out\artifacts\dagBomberman_jar\dagBomberman.jar" 
+
+	Open “dagBomberman” 
+
+	Open “out” 
+
+	Open “artifacts” 
+
+	Open “dagBomberman_jar” 
+
+	Double-click on “dagBomberman.jar” 
+
+
+**View source code in: "\dagBomberman\src": 
+
+	Open “dagBomberman” 
+
+	Open “src” 
